@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-carlosdesign ha modificado el archivo
->>>>>>> b93f0a09f33604cefa80c899033c6e2e83338917
+modificacion
